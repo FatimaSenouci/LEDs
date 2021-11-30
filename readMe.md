@@ -7,6 +7,7 @@ hello everyone in this project I made leds which light up alternately, I used C 
 as a basis to advance in the field of signal processing and embedded systems
 --
 so welcome and keep up the good work 
- ![welcome](Bureau:/git.png)
+ ![welcome](git.png)
+ --
 # License & copyright 
 © Fatima Senouci ,Ibn Khaldoun University 
